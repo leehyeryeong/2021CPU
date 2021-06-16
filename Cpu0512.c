@@ -5,14 +5,14 @@ int main(void)
 {
 	int a;
 
-	printf("¼ıÀÚ ÀÔ·Â : ");
+	printf("ìˆ«ì ì…ë ¥ : ");
 	scanf("%d", &a);
 
 	if (a % 2 == 0) {
-		printf("Â¦¼ö");
+		printf("ì§ìˆ˜");
 	}
 	else {
-		printf("È¦¼ö");
+		printf("í™€ìˆ˜");
 	}
 
 	return 0;
